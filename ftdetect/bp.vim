@@ -1,1 +1,1 @@
-autocmd BufRead,BufNewFile *.bp set filetype=javascript
+autocmd BufRead,BufNewFile *.bp set filetype=hal
